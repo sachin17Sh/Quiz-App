@@ -50,7 +50,7 @@
   }
   
   .answer button.selected {
-    background: #e39f6a;
+    background: #c38a5e;
     color: #2c203d;
   }
   
@@ -60,7 +60,7 @@
   }
   
   .answer button.wrong {
-    background: #f55a98;
+    background: #e50404;
     color: #2c203d;
   }
   
